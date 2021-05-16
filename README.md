@@ -1,2 +1,0 @@
-# first-application
-Hello World
